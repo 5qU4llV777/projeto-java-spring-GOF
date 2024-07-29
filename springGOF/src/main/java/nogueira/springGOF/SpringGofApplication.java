@@ -11,7 +11,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * - Spring Web
  * - H2 Database
  * - OpenFeign
- *
+ * -springdoc openai 2.6.0
  * @author 5qU4llV777
  */
 
